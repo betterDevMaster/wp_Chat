@@ -1,0 +1,18 @@
+{
+    "name": "root/wp-chat",
+    "authors": [
+        {
+            "name": "InitialCrow",
+            "email": "parent.adam@free.fr"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.3.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ratchet\\": "src/Ratchet",
+            "App\\":"app/"
+        }
+    }
+}
