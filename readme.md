@@ -5,9 +5,6 @@ plugin for wordpress from scratch with mvc work on linux (no admin for window)
 ==================
 
 - download zip file from github you can use 
-
-> git clone https://github.com/InitialCrow/wpChat.git .
-
 - rename folder to wpChat if name changed
 - then put wpChat folder in you wordpress plugin directory
 
